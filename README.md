@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hello world! 👋
+I'm a 27 year old dev-student studying frontend and a bit of backend at YRGO, graduating spring 2026! <br/>
+
+I have previously studdied graphic design and 3D moddeling but have since falled in love with making things work! I'm generally a very positive person who belives in cellebrating the smaller milestones and love to learn new things. 
+
+
+
 
 <!--
 **Jennie-Westerlund/Jennie-Westerlund** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
