@@ -9,12 +9,8 @@ I have previously studdied graphic design and 3D moddeling but have since falled
 
 
 ### Get in touch!
-<a href="https://linkedin.com/in/jennie-westerlund-4795ab34b">
-  <img src="./LinkedIn-icon.png" alt="LinkedIn" width="52" height="52" />
-</a>
-<a href="mailto:jmn.westerlund@gmail.com">
-  <img src="./mail-icon.svg" alt="mail" width="52" height="52" />
-</a>
+<a href="https://linkedin.com/in/jennie-westerlund-4795ab34b"><img src="./LinkedIn-icon.png" alt="LinkedIn" width="62" height="62" /></a> 
+<a href="mailto:jmn.westerlund@gmail.com"><img src="./mail-icon.svg" alt="mail" width="62" height="62" /></a>
 
 
 
