@@ -1,5 +1,5 @@
 # Hello world, my name is Jennie! 👋
-I'm a 27 year old dev-student studying web development at YRGO, graduating spring 2026! <br/>
+I'm a 27 year old dev-student studying web development at YRGO, graduating spring 2026! 🎓 <br/>
 
 I have previously studdied graphic design and 3D moddeling but have since falled in love with making things work! I'm generally a very positive person who belives in cellebrating the smaller milestones and love to learn new things. 
 
