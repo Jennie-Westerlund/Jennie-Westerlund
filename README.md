@@ -5,6 +5,8 @@ I have previously studdied graphic design and 3D moddeling but have since falled
 
 🌱 What am I learning right now? **Next.js** & **TypeScript**
 
+👩🏼‍💻 What am I working on right now? [Virtual Escape Room](https://github.com/maxjvjohansson/virtual-escape-room)
+
 💼 Currently looking for an Internship **Dec 2025 - May 2026**
 
 
