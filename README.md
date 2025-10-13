@@ -5,7 +5,7 @@ I have previously studdied graphic design and 3D moddeling but have since fallen
 
 🌱 What am I learning right now? **Open source** & **TypeScript**
 
-👩🏼‍💻 What am I working on right now? [Ateljé]([https://github.com/maxjvjohansson/virtual-escape-room](https://github.com/Andreawingardh/atelje))
+👩🏼‍💻 What am I working on right now? [Ateljé]([https://github.com/Andreawingardh/atelje])
 
 💼 Currently looking for an Internship **Dec 2025 - May 2026**
 
